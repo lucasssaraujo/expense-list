@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lucasssaraujo.github.io/expense-list/",
   "name": "react-complete-guide",
   "version": "0.1.0",
   "private": true,
@@ -19,11 +20,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-
-  "homepage": "https://lucasssaraujo.github.io/expense-list/",
-    
-  
-
   "eslintConfig": {
     "extends": [
       "react-app",
